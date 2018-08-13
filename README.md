@@ -2,3 +2,4 @@
 Ce repository n'est crée que pour suivre le tuto de Marc G Gauthier (openclassrooms) sur Git
 - Voici un premier ajout de texte
 - Et là une modification faite sur gitHub, pour tester pull.
+- Je refais une modification en local pour retester le push
